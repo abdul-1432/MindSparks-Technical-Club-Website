@@ -16,7 +16,7 @@ Welcome to the MindSparks Technical Club's official GitHub repository! This repo
 The [Home page](https://mindsparks.netlify.app/) is the landing page of our website. It provides a brief overview of MindSparks Technical Club and highlights key features, upcoming events, or important announcements.
 
 ## About
-Learn more about MindSparks Technical Club on our [About page](./about.html). Discover our mission, vision, and the values that drive our club. Get to know the people behind the scenes and understand the goals we aim to achieve.
+Learn more about MindSparks Technical Club on our [About page](https://mindsparks.netlify.app/about). Discover our mission, vision, and the values that drive our club. Get to know the people behind the scenes and understand the goals we aim to achieve.
 
 ## Teams
 Explore our talented and dedicated teams on the [Teams page](./teams.html). Each team has its own section with information about its purpose, members, and ongoing projects. If you're interested in joining a specific team, this is the place to learn more.
