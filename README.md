@@ -22,7 +22,7 @@ Learn more about MindSparks Technical Club on our [About page](https://mindspark
 Explore our talented and dedicated teams on the [Teams page](./teams.html). Each team has its own section with information about its purpose, members, and ongoing projects. If you're interested in joining a specific team, this is the place to learn more.
 
 ## Events
-Stay updated on our latest and upcoming events by visiting the [Events page](./events.html). We regularly organize workshops, seminars, and competitions. Find details about past events and information on how to participate in upcoming ones.
+Stay updated on our latest and upcoming events by visiting the [Events page](https://mindsparks.netlify.app/portfolio). We regularly organize workshops, seminars, and competitions. Find details about past events and information on how to participate in upcoming ones.
 
 ## Contact
 Need to get in touch with us? Visit the [Contact page](./contact.html) for information on how to reach out. Whether you have questions, suggestions, or want to collaborate, we're here to listen.
