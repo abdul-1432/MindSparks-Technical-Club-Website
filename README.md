@@ -40,6 +40,6 @@ Our website is built with the following technologies:
 We welcome contributions! If you'd like to contribute to the development of our website, please follow our [contribution guidelines](./CONTRIBUTING.md).
 
 ## License
-This project is licensed under the [MIT License](./LICENSE). Feel free to use, modify, and distribute the code, but be sure to include the original license file.
+This project is licensed under the [Mind Sparks License](./LICENSE). Feel free to use, modify, and distribute the code, but be sure to include the original license file.
 
 Thank you for visiting the MindSparks Technical Club's GitHub repository! We hope you find our website informative and engaging. If you have any feedback or suggestions, please don't hesitate to let us know.
